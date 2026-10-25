@@ -5,3 +5,4 @@ table { width: 90%; margin: 20px auto; border-collapse: collapse; background: #f
 th, td { border: 1px solid #ccc; padding: 10px; }
 th { background: #3866e6; color: #000000; }
 button {background: #547ae4; color: #000000;}
+.det { text-align: right; }

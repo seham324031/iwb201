@@ -1,0 +1,7 @@
+body { font-family: Arial; text-align: center; background: #eee; }
+nav { background: #3866e6; padding: 10px; }
+nav a { color: #fff; margin: 10px; text-decoration: none; }
+table { width: 90%; margin: 20px auto; border-collapse: collapse; background: #fff; }
+th, td { border: 1px solid #ccc; padding: 10px; }
+th { background: #3866e6; color: #000000; }
+button {background: #547ae4; color: #000000;}
